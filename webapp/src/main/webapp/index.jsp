@@ -12,6 +12,12 @@
     <input type="text" placeholder="Enter Last Name" name="Name1" id="Name1" required>
     <br>
 
+    <label for="Gender"><b>Gender</b></label>
+    <input type="radio" placeholder="Gender" name="Gender" id="Gender" required>
+    <label for="Gender"><b>Gender</b></label>
+    <input type="radio" placeholder="Gender" name="Gender" id="Gender" required>
+    <br>
+
     
     <label for="mobile"><b>Enter mobile</b></label>
     <input type="Number" placeholder="Enter moible number" name="mobile" id="mobile" required>
